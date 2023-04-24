@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Arogn/Arogn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ararat Oganesyan
+### Data Analyst 
 
-Here are some ideas to get you started:
+Hello! My name is Ararat, I love data science, statistics and everything connected with it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools**
+
+- Python, Pandas 
+- SQL 
+- Git 
+- Statistics
+- Apache Superset 
+- Apache Airflow 
