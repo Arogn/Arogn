@@ -1,8 +1,7 @@
 
-## Ararat Oganesyan
-### Data Analyst 
+## Ararat Oganesyan 
 
-Hello! My name is Ararat, I love data science, statistics and everything connected with it.
+Hello! My name is Ararat, I love programming, data science and everything connected with it.
 
 **Languages and Tools**
 
